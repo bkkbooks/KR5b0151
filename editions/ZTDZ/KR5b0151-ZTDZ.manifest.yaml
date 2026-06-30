@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0151/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0151/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大明玄教立成齋醮儀
+  date: '2015-08-29 00:12:01.460638'
+  source:
+    repository: kanripo
+    path: KR5b0151
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0151_000-ZTDZ.yaml, hash: 'sha256:a50dfc7fb434656ee2c2f9b586d33902b55fa15c3e5ba2173ec65ea8f1ec14b3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0151_000-ZTDZ.markers.yaml, hash: 'sha256:fa2032715dd9a3725e323ae83abb1517f7414697ccdb3dca46dbe12c38585486'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0151_SJB_000-090001a
+    span:
+    - body
+    - 0
+    - 4321
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:d14325ff5f50f0c24298ffc802cb77e0141d4b50e887d0bcaf2e988889e86ac7
