@@ -1416,6 +1416,7 @@ markers:
       ', id: KR5b0151_HFL_000-bkkkrnewl299}
   - {type: line-break, offset: 2611, content: '', id: KR5b0151_HFL_000-015b09}
   - {type: punctuation, offset: 2618, content: (, id: KR5b0151_HFL_000-bkkpn1}
+  - {type: voice, offset: 2618, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2619, content: ), id: KR5b0151_HFL_000-bkkpn2}
   - {type: 'kr:newline', offset: 2628, content: '
 
@@ -1659,6 +1660,7 @@ markers:
   - {type: line-break, offset: 3270, content: '', id: KR5b0151_HFL_000-018b01}
   - {type: indent, offset: 3270, content: 　　　　, id: KR5b0151_HFL_000-bkkind133}
   - {type: punctuation, offset: 3277, content: (, id: KR5b0151_HFL_000-bkkpn3}
+  - {type: voice, offset: 3277, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 3281, content: /, id: KR5b0151_HFL_000-bkkpn4}
   - {type: punctuation, offset: 3284, content: ), id: KR5b0151_HFL_000-bkkpn5}
   - {type: 'kr:newline', offset: 3284, content: '
@@ -1858,6 +1860,7 @@ markers:
       ', id: KR5b0151_HFL_000-bkkkrnewl402}
   - {type: line-break, offset: 3734, content: '', id: KR5b0151_HFL_000-020b02}
   - {type: punctuation, offset: 3737, content: (, id: KR5b0151_HFL_000-bkkpn6}
+  - {type: voice, offset: 3737, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3738, content: ), id: KR5b0151_HFL_000-bkkpn7}
   - {type: 'kr:newline', offset: 3749, content: '
 
@@ -2029,6 +2032,7 @@ markers:
       ', id: KR5b0151_HFL_000-bkkkrnewl443}
   - {type: line-break, offset: 4291, content: '', id: KR5b0151_HFL_000-022a10}
   - {type: punctuation, offset: 4293, content: (, id: KR5b0151_HFL_000-bkkpn8}
+  - {type: voice, offset: 4293, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 4294, content: ), id: KR5b0151_HFL_000-bkkpn9}
   - {type: 'kr:newline', offset: 4306, content: '
 
@@ -2071,4 +2075,4 @@ markers:
 
       ', id: KR5b0151_HFL_000-bkkkrnewl455}
   back: []
-hash: sha256:90902f7b57f553130ef6e4b356a4607af1727f0c48a16f8ba3ffa054a9345354
+hash: sha256:0d8de67777b374facf1e489cdd7b7ac954454a51896fd8da07ab17507823b6ed
